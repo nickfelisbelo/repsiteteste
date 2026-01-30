@@ -19,10 +19,8 @@
   Nesses arquivos fizemos uma UI(User Interface) que ajuda a visualizar a cotação do Dólar(USD) em Reais(BRL)
 ##
 ## Aula GIT
-  ### Aprendemos a "subir" a pasta no github por 3 métodos
+  ### Aprendemos a "subir" a pasta no github por 2 métodos
   + #### Método 1:
      - Seguir as instruções do github ao criar um repositório sem o arquivo ``README.md`` 
   + #### Método 2:
       - Sincronizar o VsCode com o Git(consequentemente com o github)
-  + #### Método 3:
-      - 
