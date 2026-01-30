@@ -9,6 +9,8 @@
 ## Aula GIT
   ### Aprendemos a "subir" a pasta no github por 3 métodos
   + #### Método 1:
-     - Seguir as instruções do github ao criar um repositório sem ``README.md`` 
+     - Seguir as instruções do github ao criar um repositório sem o arquivo ``README.md`` 
   + #### Método 2:
+      - Usar ``git config --global user.name"nickfelisbelo"``
   + #### Método 3:
+      - 
