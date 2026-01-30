@@ -6,7 +6,7 @@
     - ``script.js``
       
   Nesses arquivos fizemos uma UI(User Interface) que ajuda a visualizar a cotação do Dólar(USD) em Reais(BRL)
-
+##
 ## Aula GIT
   ### Aprendemos a "subir" a pasta no github por 3 métodos
   + #### Método 1:
