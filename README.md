@@ -1,5 +1,16 @@
 # Site de Converter Dólar em Real(Ver a Cotação) e aula de GIT(Como subir uma pasta no github pelo GIT)
 ## Site em Dolar
+  + ### Fizemos 3 arquivos:
+    - ``index.html``
+    - ``style.css``
+    - ``script.js``
+
+    Nesses arquivos fizemos uma UI(User Interface) que ajuda a visualizar a cotação do Dólar(USD) em Reais(BRL)
+
+  + ### Como executar:
+    1. clone este repositório
+    2. Abra com VSCODE
+    3. Execute o arquivo ``index.html`` com Live Server  
   + Fizemos 3 arquivos:
     - ``index.html``
     - ``style.css``
@@ -12,6 +23,6 @@
   + #### Método 1:
      - Seguir as instruções do github ao criar um repositório sem o arquivo ``README.md`` 
   + #### Método 2:
-      - Usar ``git config --global user.name"nickfelisbelo"``
+      - Sincronizar o VsCode com o Git(consequentemente com o github)
   + #### Método 3:
       - 
