@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: aliceblue;
+    text-align: center;
+    gap: 5vh;
+}
+
+header{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+main{
+    justify-content: center;
+}
+
+button{
+    padding: 10px;
+    color: white;
+    background-color: black;
+    border: solid 1px white;
+    border-radius: 8px;
+    margin: 10px;
+    font-size: large;
+    box-shadow: 0 0 4px black;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: white;
+    color: black;
+    border: solid 1px black;
+    transition: 0.3s;
+    box-shadow: 0 0 4px white;
+}
